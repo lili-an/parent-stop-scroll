@@ -1,0 +1,24 @@
+{
+  "name": "parent-stop-scroll",
+  "version": "1.0.0",
+  "description": "This is a plug-in whose child element scrolls and the parent element does not scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lili-an/parent-stop-scroll.git"
+  },
+  "keywords": [
+    "child",
+    "parents",
+    "scroll"
+  ],
+  "author": "strong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lili-an/parent-stop-scroll/issues"
+  },
+  "homepage": "https://github.com/lili-an/parent-stop-scroll#readme"
+}
